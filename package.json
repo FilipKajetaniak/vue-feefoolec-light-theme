@@ -1,0 +1,33 @@
+{
+  "name": "vue-feefoolec-light",
+  "displayName": "Vue Feefoolec Light",
+  "description": "Feefoolec light theme made for Vue.js",
+  "publisher": "Feefoolec",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FilipKajetaniak/vue-feefoolec-light-theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vue Feefoolec",
+        "uiTheme": "vs-light",
+        "path": "./themes/Vue Feefoolec Light-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "theme",
+    "feefoolec",
+    "light",
+    "vue",
+    "vue.js"
+  ]
+}
